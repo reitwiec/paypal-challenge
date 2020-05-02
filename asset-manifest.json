@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/paypal-challenge/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/paypal-challenge/static/js/main.73ba327c.chunk.js",
+    "main.js.map": "/paypal-challenge/static/js/main.73ba327c.chunk.js.map",
+    "runtime-main.js": "/paypal-challenge/static/js/runtime-main.548c11c2.js",
+    "runtime-main.js.map": "/paypal-challenge/static/js/runtime-main.548c11c2.js.map",
+    "static/js/2.a050de45.chunk.js": "/paypal-challenge/static/js/2.a050de45.chunk.js",
+    "static/js/2.a050de45.chunk.js.map": "/paypal-challenge/static/js/2.a050de45.chunk.js.map",
+    "index.html": "/paypal-challenge/index.html",
+    "precache-manifest.abe69dbc47df808f54a6dd69a583735e.js": "/paypal-challenge/precache-manifest.abe69dbc47df808f54a6dd69a583735e.js",
+    "service-worker.js": "/paypal-challenge/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/paypal-challenge/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.a050de45.chunk.js.LICENSE.txt": "/paypal-challenge/static/js/2.a050de45.chunk.js.LICENSE.txt",
+    "static/media/data.csv": "/paypal-challenge/static/media/data.9ff74655.csv"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.548c11c2.js",
+    "static/js/2.a050de45.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.73ba327c.chunk.js"
+  ]
+}
